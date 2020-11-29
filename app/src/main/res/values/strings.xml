@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alumni Tracker</string>
+    <string name="app_owner">Developed By Loyce</string>
+    <string name="app_tittle">ALUMNI TRACKER</string>
+    <string name="login_tittle">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="toForgotPass">Forgot password? Click to reset</string>
+    <string name="sign">Register</string>
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="sign_tittle">SIGN UP</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="linked">Linked In</string>
+    <string name="workStatus">Employment Status</string>
+    <string name="photo">Upload Photo</string>
+    <string name="toSignUp">Already have an account?</string>
+    <string name="passwordReset">FORGOT PASSWORD</string>
+    <string name="toLogin">Remembered password?</string>
+    <string name="resetBtn">Reset</string>
+    <string name="log_out">Log out</string>
+</resources>

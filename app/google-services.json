@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "401766340669",
+    "firebase_url": "https://askandanswer-3350a.firebaseio.com",
+    "project_id": "askandanswer-3350a",
+    "storage_bucket": "askandanswer-3350a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401766340669:android:4706f26f16cdb05266f254",
+        "android_client_info": {
+          "package_name": "com.example.AlumniTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXDwhThCJwsyZmHSJoDvfPegb4NSizBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401766340669:android:42954d0546f30bf366f254",
+        "android_client_info": {
+          "package_name": "com.example.AlumniTrackerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXDwhThCJwsyZmHSJoDvfPegb4NSizBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401766340669:android:80b2dfc70fedee0266f254",
+        "android_client_info": {
+          "package_name": "com.example.aaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXDwhThCJwsyZmHSJoDvfPegb4NSizBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401766340669:android:071bffc934c3f4dd66f254",
+        "android_client_info": {
+          "package_name": "com.example.almunitracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXDwhThCJwsyZmHSJoDvfPegb4NSizBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401766340669-2npceqc3geh1nbf8d0g42vtc5l2o3ls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
